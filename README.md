@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Hirantha Pabasara
 
-<!--
-**hirantha-pabasara/hirantha-pabasara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer who enjoys building Android apps and focusing on creating intuitive, user-friendly experiences through thoughtful UX design. I love turning ideas into real, functional projects and continuously learning to improve my skills. I'm always open to collaboration and excited to contribute to meaningful software.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Android (Java)
+- Firebase
+- UX/UI Design
+- Git & GitHub
+- REST APIs
+- Material Design
+
+## 📫 Connect with me
+
+- Email: hiranthapabasara@yahoo.com
+- LinkedIn: www.linkedin.com/in/hirantha-pabasara
+- Portfolio: comming soon.....
+
+*Thanks for stopping by! Let's build something great together.*
