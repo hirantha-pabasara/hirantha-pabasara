@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hirantha Pabasara 👋
+# 👋 Hi, I'm Hirantha Pabasara
 
 ### Full-Stack Software Engineer
 
@@ -8,9 +8,7 @@ Building scalable web applications with Spring Boot, Next.js, PostgreSQL, and mo
 
 Focused on clean architecture, secure backend systems, and exceptional user experiences.
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=hiranthapabasara&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=hirantha-pabasara&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -19,14 +17,15 @@ Focused on clean architecture, secure backend systems, and exceptional user expe
 ## 🚀 About Me
 
 * 💻 Full-Stack Software Engineer
-* 🌱 Currently exploring AI Engineering and System Design
-* ⚡ Building production-grade applications with modern web technologies
-* 🐧 Linux enthusiast (Fedora & Arch Linux)
-* 🎯 Interested in Backend Architecture, Cloud Infrastructure, and AI
+* 🎓 Software Engineering Graduate
+* 🌱 Currently learning AI Engineering, System Design, and Cloud Architecture
+* ⚡ Passionate about building production-ready SaaS platforms
+* 🐧 Linux Enthusiast (Fedora & Arch Linux)
+* 🎯 Interested in Backend Engineering, AI, and Scalable Systems
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Backend
 
@@ -34,6 +33,7 @@ Focused on clean architecture, secure backend systems, and exceptional user expe
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 ### Frontend
 
@@ -43,7 +43,7 @@ Focused on clean architecture, secure backend systems, and exceptional user expe
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-### Tools & Infrastructure
+### DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
@@ -53,19 +53,13 @@ Focused on clean architecture, secure backend systems, and exceptional user expe
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hiranthapabasara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hirantha-pabasara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hiranthapabasara&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiranthapabasara&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirantha-pabasara&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -75,12 +69,12 @@ Focused on clean architecture, secure backend systems, and exceptional user expe
 
 ### 🎓 EduExpress
 
-A full-stack learning management platform featuring:
+Full-stack Learning Management Platform
 
-* Role-based access control
-* Real-time support system
-* Secure authentication
-* Modern dashboard architecture
+* Role-based Access Control (RBAC)
+* Real-time Support System
+* Secure Authentication & Authorization
+* Modern Dashboard Architecture
 
 **Stack:** Next.js · Spring Boot · PostgreSQL · Redis
 
@@ -88,12 +82,12 @@ A full-stack learning management platform featuring:
 
 ### 💼 Velnox
 
-A freelance marketplace platform featuring:
+Freelance Marketplace Platform
 
 * OTP Authentication
-* Secure payment information storage
-* Freelancer portfolio management
-* End-to-end security implementation
+* Secure Payment Information Storage
+* Freelancer Portfolio Management
+* End-to-End Security
 
 **Stack:** Next.js · Spring Boot · PostgreSQL · JWT
 
@@ -101,40 +95,40 @@ A freelance marketplace platform featuring:
 
 ### 🏢 BizHub
 
-Business collaboration platform with:
+Business Collaboration Platform
 
-* Real-time communication
-* Ticket management system
-* File sharing
-* WebSocket integration
+* Real-time Messaging
+* Ticket Management System
+* File Sharing & Uploads
+* WebSocket Communication
 
 **Stack:** Next.js · Spring Boot · PostgreSQL · STOMP
 
 ---
 
-## 📈 Contribution Activity
+## 🎯 Current Focus
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hiranthapabasara&theme=tokyo-night&hide_border=true" />
-
-</div>
+* Advanced Spring Boot Development
+* NestJS Architecture
+* System Design & Distributed Systems
+* AI Engineering
+* Cloud Infrastructure
+* Scalable SaaS Applications
 
 ---
 
-## 🏆 GitHub Achievements
+## 📈 Development Philosophy
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hiranthapabasara&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
-
-</div>
+> Write clean code.
+> Design scalable systems.
+> Build products that solve real problems.
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
+
 <a href="mailto:hiranthapabasara@yahoo.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -142,12 +136,13 @@ Business collaboration platform with:
 <a href="https://www.linkedin.com/in/hirantha-pabasara">
 <img src="https://img.shields.io/badge/LinkedIn-Hirantha_Pabasara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### "Building software that scales, performs, and creates impact."
+### 🚀 Building scalable software, one project at a time.
 
 </div>
