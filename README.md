@@ -67,19 +67,6 @@ Focused on clean architecture, secure backend systems, and exceptional user expe
 
 ## 🌟 Featured Projects
 
-### 🎓 EduExpress
-
-Full-stack Learning Management Platform
-
-* Role-based Access Control (RBAC)
-* Real-time Support System
-* Secure Authentication & Authorization
-* Modern Dashboard Architecture
-
-**Stack:** Next.js · Spring Boot · PostgreSQL · Redis
-
----
-
 ### 💼 Velnox
 
 Freelance Marketplace Platform
