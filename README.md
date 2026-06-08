@@ -1,30 +1,45 @@
-# 👋 Hi, I'm Hirantha Pabasara
+# Hirantha Pabasara
 
-I'm a passionate developer who enjoys building Android apps and focusing on creating intuitive, user-friendly experiences through thoughtful UX design. I love turning ideas into real, functional projects and continuously learning to improve my skills. I'm always open to collaboration and excited to contribute to meaningful software.
+Building scalable web platforms with Spring Boot, Next.js, and PostgreSQL.
+Focused on clean architecture, production-grade APIs, and intuitive user experiences.
 
----
-
-## 🚀 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/UI%2FUX-FE4081?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/REST%20API-6DB33F?style=for-the-badge&logo=swagger&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design" />
-</p>
+</div>
 
 ---
 
-## 📫 Connect with Me
+## Tech Stack
 
-- 📧 Email: [hiranthapabasara@yahoo.com](mailto:hiranthapabasara@yahoo.com)  
-- 💼 LinkedIn: [linkedin.com/in/hirantha-pabasara](https://www.linkedin.com/in/hirantha-pabasara)  
-- 🌐 Portfolio: *Coming soon...*
+**Backend**
+`Spring Boot` `Java` `PostgreSQL` `Redis` `REST APIs` `JWT / Auth`
+
+**Frontend**
+`Next.js` `React` `Angular` `TypeScript` `Tailwind CSS`
+
+**Tools & Infra**
+`Git` `Docker` `Linux / Fedora` `Figma` `Sanity CMS`
 
 ---
 
-*Thanks for stopping by! Let's build something great together.*
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hiranthapabasara&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hiranthapabasara&theme=default&hide_border=true" height="165" />
+</div>
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **EduExpress** | Full-stack e-learning platform with multi-tab support system and role-based access control | Next.js · Spring Boot · PostgreSQL · Redis |
+| **Velnox** | Freelance marketplace with OTP auth, encrypted payout methods and freelancer profiles | Next.js · Spring Boot · JWT · AES-GCM |
+| **BizHub** | SaaS platform with real-time WebSocket support chat, ticket system and file uploads | Next.js · Spring Boot · WebSocket · STOMP |
+
+---
+
+## Connect
+
+[![Email](https://img.shields.io/badge/Email-hiranthapabasara%40yahoo.com-0A66C2?style=flat-square&logo=yahoo&logoColor=white)](mailto:hiranthapabasara@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hirantha--pabasara-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hirantha-pabasara)
