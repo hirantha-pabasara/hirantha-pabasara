@@ -1,45 +1,153 @@
-# Hirantha Pabasara
+<div align="center">
 
-Building scalable web platforms with Spring Boot, Next.js, and PostgreSQL.
-Focused on clean architecture, production-grade APIs, and intuitive user experiences.
+# Hi, I'm Hirantha Pabasara 👋
+
+### Full-Stack Software Engineer
+
+Building scalable web applications with Spring Boot, Next.js, PostgreSQL, and modern cloud technologies.
+
+Focused on clean architecture, secure backend systems, and exceptional user experiences.
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=hiranthapabasara&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 </div>
 
 ---
 
-## Tech Stack
+## 🚀 About Me
 
-**Backend**
-`Spring Boot` `Java` `PostgreSQL` `Redis` `REST APIs` `JWT / Auth`
-
-**Frontend**
-`Next.js` `React` `Angular` `TypeScript` `Tailwind CSS`
-
-**Tools & Infra**
-`Git` `Docker` `Linux / Fedora` `Figma` `Sanity CMS`
+* 💻 Full-Stack Software Engineer
+* 🌱 Currently exploring AI Engineering and System Design
+* ⚡ Building production-grade applications with modern web technologies
+* 🐧 Linux enthusiast (Fedora & Arch Linux)
+* 🎯 Interested in Backend Architecture, Cloud Infrastructure, and AI
 
 ---
 
-## GitHub Stats
+## 🛠 Tech Stack
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+
+### Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+
+### Tools & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge\&logo=fedora\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiranthapabasara&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hiranthapabasara&theme=default&hide_border=true" height="165" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hiranthapabasara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hiranthapabasara&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiranthapabasara&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
-## Featured Projects
+## 🌟 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **EduExpress** | Full-stack e-learning platform with multi-tab support system and role-based access control | Next.js · Spring Boot · PostgreSQL · Redis |
-| **Velnox** | Freelance marketplace with OTP auth, encrypted payout methods and freelancer profiles | Next.js · Spring Boot · JWT · AES-GCM |
-| **BizHub** | SaaS platform with real-time WebSocket support chat, ticket system and file uploads | Next.js · Spring Boot · WebSocket · STOMP |
+### 🎓 EduExpress
+
+A full-stack learning management platform featuring:
+
+* Role-based access control
+* Real-time support system
+* Secure authentication
+* Modern dashboard architecture
+
+**Stack:** Next.js · Spring Boot · PostgreSQL · Redis
 
 ---
 
-## Connect
+### 💼 Velnox
 
-[![Email](https://img.shields.io/badge/Email-hiranthapabasara%40yahoo.com-0A66C2?style=flat-square&logo=yahoo&logoColor=white)](mailto:hiranthapabasara@yahoo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hirantha--pabasara-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hirantha-pabasara)
+A freelance marketplace platform featuring:
+
+* OTP Authentication
+* Secure payment information storage
+* Freelancer portfolio management
+* End-to-end security implementation
+
+**Stack:** Next.js · Spring Boot · PostgreSQL · JWT
+
+---
+
+### 🏢 BizHub
+
+Business collaboration platform with:
+
+* Real-time communication
+* Ticket management system
+* File sharing
+* WebSocket integration
+
+**Stack:** Next.js · Spring Boot · PostgreSQL · STOMP
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hiranthapabasara&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hiranthapabasara&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+<a href="mailto:hiranthapabasara@yahoo.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/hirantha-pabasara">
+<img src="https://img.shields.io/badge/LinkedIn-Hirantha_Pabasara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### "Building software that scales, performs, and creates impact."
+
+</div>
